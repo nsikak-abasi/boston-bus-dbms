@@ -1,1 +1,1 @@
-# boston-bus-dbms
+I designed and implemented a comprehensive database system using SQLite to analyze transportation metrics. By developing complex SQL queries and creating data visualizations, I was able to identify usage trends, which supported data-driven resource planning.
